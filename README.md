@@ -41,7 +41,7 @@
   138  git status
   139  git push heroku master
   129  heroku open
-  
+  # https://arcane-caverns-87919.herokuapp.com/
   145* sudo -u postgres createuser fft
   150* sudo -u postgres psql
   151* psql -d learningflask
